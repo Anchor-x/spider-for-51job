@@ -18,7 +18,7 @@ python ./GetData.py
 ## 创建数据库和表
 > 使用`SQL Server`数据库
 
-创建表：`CreateTable,sql`文件
+创建表：`CreateTable.sql`文件
 
 ## 数据入库
 ```bash
